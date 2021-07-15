@@ -12,6 +12,7 @@ def peakIndexInMountainArray(self, arr):
             left = mid + 1  
             
     return mid
+[0,1,0]
 #time o logn
 #space o1
 
